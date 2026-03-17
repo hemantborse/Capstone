@@ -40,3 +40,6 @@ Based on above scatterplot lets explore transaction amount destribution by class
 
 **Box Plots for V1 to V28 (Fraud Vs Legit)**
 <img width="1990" height="1190" alt="image" src="https://github.com/user-attachments/assets/5826c58f-b03d-4acf-aa9f-b47c0f0e31f4" />
+
+**Correlation Heatmap**
+<img width="549" height="441" alt="image" src="https://github.com/user-attachments/assets/1628eab1-7339-4b5c-b179-8f0aa51e0dbb" />
