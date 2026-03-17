@@ -29,9 +29,14 @@ Class Imbalance Barchart**
 Observation : Based on scatter plot above we can see that fraudulant transactions amount is always less than 5000
 Based on above scatterplot lets explore transaction amount destribution by class
 
-<img width="597" height="435" alt="image" src="https://github.com/user-attachments/assets/f602e36c-f79b-4a68-8def-49c3cd6fddca" />
+<img width="629" height="470" alt="image" src="https://github.com/user-attachments/assets/0768fad9-6f73-4be7-ae58-f11469561f3e" />
 
 
-Transaction Time Destribution by Class
 
-<img width="589" height="435" alt="image" src="https://github.com/user-attachments/assets/034a9e7f-01a8-417c-9481-6b0b4a2b8756" />
+**Transaction Time Destribution by Class**
+
+<img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/fcc096b6-e371-46dd-9724-c34b345d4bf1" />
+
+
+**Box Plots for V1 to V28 (Fraud Vs Legit)**
+<img width="1990" height="1190" alt="image" src="https://github.com/user-attachments/assets/5826c58f-b03d-4acf-aa9f-b47c0f0e31f4" />
