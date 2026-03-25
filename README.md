@@ -1,7 +1,8 @@
 # Capstone : Credit Card Fraud Detection Predictive Models
-
-This dataset is from https://www.kaggle.com/code/gpreda/credit-card-fraud-detection-predictive-models
-
+## Problem Statement:
+With Didtal operations growing across the globale in finance and telecom sector , bad actors finding their way to commit frauds , finding such a frauds / anomolies is critical for businesses and enterprises.
+This is an approch solve this problem by training an efficient AI / ML model which can be trained on an avaiable dataset from https://www.kaggle.com/code/gpreda/credit-card-fraud-detection-predictive-models.
+## Dataset
 Dataset Information copied from Kaggle -
 
 The datasets contains transactions made by credit cards in September 2013 by european cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
@@ -17,7 +18,9 @@ Features V1, V2, ... V28 are the principal components obtained with PCA; The onl
 **use CRISP DM Model for this assignment**
 
 <img width="382" height="369" alt="image" src="https://github.com/user-attachments/assets/f7bbd63f-5b5d-4700-aa3a-83410d37438e" />
-
+**
+**CRISP-DM Phases Completed as below**
+**
 **DATA Understanding
 
 Class Imbalance Barchart**
@@ -27,13 +30,13 @@ Class Imbalance Barchart**
 **Scatter Plot Amount Vs Fraud**
 <img width="593" height="432" alt="image" src="https://github.com/user-attachments/assets/fc34ae06-d917-4b90-84a3-43641b566782" />
 Observation : Based on scatter plot above we can see that fraudulant transactions amount is always less than 5000
-Based on above scatterplot lets explore transaction amount destribution by class
+Based on above scatterplot lets explore transaction amount distribution by class
 
 <img width="629" height="470" alt="image" src="https://github.com/user-attachments/assets/0768fad9-6f73-4be7-ae58-f11469561f3e" />
 
 
 
-**Transaction Time Destribution by Class**
+**Transaction Time Distribution by Class**
 
 <img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/fcc096b6-e371-46dd-9724-c34b345d4bf1" />
 
